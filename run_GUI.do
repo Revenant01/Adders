@@ -15,4 +15,4 @@ run 100 ns
 view structure
 
 # Optional: You can use the "view" command to ensure the schematic window is open
-view schematic
+# view schematic
